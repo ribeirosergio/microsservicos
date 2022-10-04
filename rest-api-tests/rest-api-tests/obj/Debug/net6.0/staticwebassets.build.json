@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m7tBWuRGTjn7Ok0/7Y4RuDk52rcMbwt9zpZAv2nMGo8=",
+  "Source": "rest-api-tests",
+  "BasePath": "_content/rest-api-tests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

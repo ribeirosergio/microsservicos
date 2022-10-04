@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace rest_api_tests.Controllers
 {
     [ApiController]
-    [Route("calculadora")]
+    [Route("api/calculadora")]
     public class CalculadoraController : ControllerBase
     {
         private readonly ILogger<CalculadoraController> _logger;
