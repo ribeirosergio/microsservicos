@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WPuPJCPj3ruMBwkiOjRXyaTZpoWzsLvCp8157URSp+k7/fLI+N88MR2kFXZ3b49UFGnaeCDhZav3r+SOhAPGkg==",
+  "dgSpecHash": "6JG+T94QnBFbYl/hekqnBmWZOFfFCm31VruBJOgwWXgvVy+Eh0MWAB7vGz792xdmcNFyEdtl/YC2l9qb6G9MNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sergiosantos\\Source\\Repos\\microsservicos\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "projectFilePath": "C:\\Users\\sergiosantos\\source\\repos\\microsservicos\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sergiosantos\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\sergiosantos\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sergiosantos\\Source\\Repos\\microsservicos\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj": {}
+    "C:\\Users\\sergiosantos\\source\\repos\\microsservicos\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sergiosantos\\Source\\Repos\\microsservicos\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj": {
+    "C:\\Users\\sergiosantos\\source\\repos\\microsservicos\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergiosantos\\Source\\Repos\\microsservicos\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+        "projectUniqueName": "C:\\Users\\sergiosantos\\source\\repos\\microsservicos\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
         "projectName": "GeekShopping.Web",
-        "projectPath": "C:\\Users\\sergiosantos\\Source\\Repos\\microsservicos\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+        "projectPath": "C:\\Users\\sergiosantos\\source\\repos\\microsservicos\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
         "packagesPath": "C:\\Users\\sergiosantos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergiosantos\\Source\\Repos\\microsservicos\\GeekShopping\\GeekShopping.Web\\obj\\",
+        "outputPath": "C:\\Users\\sergiosantos\\source\\repos\\microsservicos\\GeekShopping\\GeekShopping.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     }

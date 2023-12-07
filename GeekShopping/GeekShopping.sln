@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekShopping.Web", "GeekSho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekShopping.ProductAPI", "GeekShopping.ProductAPI\GeekShopping.ProductAPI.csproj", "{CF2BFE07-DBA2-4371-B04E-A5C8018B499F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekShopping.IdentityServer", "GeekShopping.IdentityServer\GeekShopping.IdentityServer.csproj", "{4A6E18BB-B7C8-451D-A3F2-272FF95526E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekShopping.IdentityServer", "GeekShopping.IdentityServer\GeekShopping.IdentityServer.csproj", "{3AB46893-F5C7-431A-9EF2-6E3E8FECBFB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,10 +27,10 @@ Global
 		{CF2BFE07-DBA2-4371-B04E-A5C8018B499F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF2BFE07-DBA2-4371-B04E-A5C8018B499F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF2BFE07-DBA2-4371-B04E-A5C8018B499F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4A6E18BB-B7C8-451D-A3F2-272FF95526E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A6E18BB-B7C8-451D-A3F2-272FF95526E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A6E18BB-B7C8-451D-A3F2-272FF95526E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A6E18BB-B7C8-451D-A3F2-272FF95526E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB46893-F5C7-431A-9EF2-6E3E8FECBFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB46893-F5C7-431A-9EF2-6E3E8FECBFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB46893-F5C7-431A-9EF2-6E3E8FECBFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB46893-F5C7-431A-9EF2-6E3E8FECBFB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -38,7 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E6E933B0-8EF2-41EB-9896-151C092391F0} = {C0B739AA-1CFD-41D7-AD49-C1874FF987DC}
 		{CF2BFE07-DBA2-4371-B04E-A5C8018B499F} = {86A5F4B1-8B1D-4EDC-BED7-62E6EC6283F6}
-		{4A6E18BB-B7C8-451D-A3F2-272FF95526E4} = {86A5F4B1-8B1D-4EDC-BED7-62E6EC6283F6}
+		{3AB46893-F5C7-431A-9EF2-6E3E8FECBFB5} = {86A5F4B1-8B1D-4EDC-BED7-62E6EC6283F6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2BE1CE7F-5BDC-488E-8B88-DDDB79D7F48B}
