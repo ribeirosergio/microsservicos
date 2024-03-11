@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sergiosantos\\source\\repos\\microsservicos\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
+    "C:\\Users\\sergiosantos\\Source\\Repos\\microsservicos\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sergiosantos\\source\\repos\\microsservicos\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
+    "C:\\Users\\sergiosantos\\Source\\Repos\\microsservicos\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergiosantos\\source\\repos\\microsservicos\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectUniqueName": "C:\\Users\\sergiosantos\\Source\\Repos\\microsservicos\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "projectName": "GeekShopping.ProductAPI",
-        "projectPath": "C:\\Users\\sergiosantos\\source\\repos\\microsservicos\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectPath": "C:\\Users\\sergiosantos\\Source\\Repos\\microsservicos\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "packagesPath": "C:\\Users\\sergiosantos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergiosantos\\source\\repos\\microsservicos\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
+        "outputPath": "C:\\Users\\sergiosantos\\Source\\Repos\\microsservicos\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -25,8 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/wizsolucoes/_packaging/WizCross/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -98,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.419\\RuntimeIdentifierGraph.json"
         }
       }
     }

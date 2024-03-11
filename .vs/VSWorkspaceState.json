@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\GeekShopping"
+    "\\GeekShopping",
+    "\\GeekShopping\\GeekShopping.IdentityServer\\Initializer",
+    "\\GeekShopping\\GeekShopping.Web"
   ],
   "SelectedNode": "\\GeekShopping\\GeekShopping.sln",
   "PreviewInSolutionExplorer": false
